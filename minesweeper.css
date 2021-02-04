@@ -1,0 +1,16 @@
+/*Example stylesheet for the minesweeper project*/
+
+body{
+  font-family: "Lucida Console", Monaco, monospace;
+}
+
+#minesweeper{
+  border: 2px solid #111;
+  width: 600px;
+  height: 600px;
+  margin: auto;
+}
+
+h2{
+  text-align: center;
+}
