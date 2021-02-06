@@ -14,3 +14,14 @@ body{
 h2{
   text-align: center;
 }
+
+#mydiv {
+  position: absolute;
+  text-align:center;
+  font-weight: bold;
+  border: 1px solid black;
+  width: 70px;
+  height: 70px;
+  left: 500px;
+  top: 200px;
+}
