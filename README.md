@@ -1,2 +1,2 @@
 # Minesweeper
-Minesweeper Game in raw JavaScript
+Minesweeper game in raw JavaScript
